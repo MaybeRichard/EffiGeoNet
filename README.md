@@ -17,7 +17,9 @@ We use [Places365-Standard dataset](http://places2.csail.mit.edu/download.html) 
 ### Training
 
 `train.py` contains the main training function code, and some parameters and dataset loactions need to be specified.
+
 `trainDistill.py` contains the main training function code of distilled model
+
 `trainPruned.py` contains the main training function code of pruned model
 
 ### Resampling
